@@ -111,7 +111,7 @@ This approach balances **speed, cost, security, and automation** while minimizin
 
 ---
 
-## Executive Summary (≤ 200 words)
+## Executive Summary
 
 Bruno is a modern, open‑source API testing tool designed for teams that prioritize speed, security, and CI/CD integration. Unlike Postman’s cloud‑centric model, Bruno is local‑first and Git‑native, storing API collections as plain‑text files that can be version‑controlled, reviewed, and automated like source code.
 
